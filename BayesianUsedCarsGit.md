@@ -68,13 +68,13 @@ summary statistics.
 
   
 
-<div id="tpayijavqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="xhgpkfejtt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>@import url("https://fonts.googleapis.com/css2?family=Calibri:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 html {
   font-family: Calibri, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#tpayijavqf .gt_table {
+#xhgpkfejtt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -99,7 +99,7 @@ html {
   border-left-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_heading {
+#xhgpkfejtt .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -111,7 +111,7 @@ html {
   border-right-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_title {
+#xhgpkfejtt .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -123,7 +123,7 @@ html {
   border-bottom-width: 0;
 }
 
-#tpayijavqf .gt_subtitle {
+#xhgpkfejtt .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -135,13 +135,13 @@ html {
   border-top-width: 0;
 }
 
-#tpayijavqf .gt_bottom_border {
+#xhgpkfejtt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_col_headings {
+#xhgpkfejtt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -156,7 +156,7 @@ html {
   border-right-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_col_heading {
+#xhgpkfejtt .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -176,7 +176,7 @@ html {
   overflow-x: hidden;
 }
 
-#tpayijavqf .gt_column_spanner_outer {
+#xhgpkfejtt .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -188,15 +188,15 @@ html {
   padding-right: 4px;
 }
 
-#tpayijavqf .gt_column_spanner_outer:first-child {
+#xhgpkfejtt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tpayijavqf .gt_column_spanner_outer:last-child {
+#xhgpkfejtt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tpayijavqf .gt_column_spanner {
+#xhgpkfejtt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -208,7 +208,7 @@ html {
   width: 100%;
 }
 
-#tpayijavqf .gt_group_heading {
+#xhgpkfejtt .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -233,7 +233,7 @@ html {
   vertical-align: middle;
 }
 
-#tpayijavqf .gt_empty_group_heading {
+#xhgpkfejtt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -248,15 +248,15 @@ html {
   vertical-align: middle;
 }
 
-#tpayijavqf .gt_from_md > :first-child {
+#xhgpkfejtt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tpayijavqf .gt_from_md > :last-child {
+#xhgpkfejtt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tpayijavqf .gt_row {
+#xhgpkfejtt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -275,7 +275,7 @@ html {
   overflow-x: hidden;
 }
 
-#tpayijavqf .gt_stub {
+#xhgpkfejtt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -288,7 +288,7 @@ html {
   padding-right: 5px;
 }
 
-#tpayijavqf .gt_stub_row_group {
+#xhgpkfejtt .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -302,11 +302,11 @@ html {
   vertical-align: top;
 }
 
-#tpayijavqf .gt_row_group_first td {
+#xhgpkfejtt .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#tpayijavqf .gt_summary_row {
+#xhgpkfejtt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -316,16 +316,16 @@ html {
   padding-right: 5px;
 }
 
-#tpayijavqf .gt_first_summary_row {
+#xhgpkfejtt .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_first_summary_row.thick {
+#xhgpkfejtt .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#tpayijavqf .gt_last_summary_row {
+#xhgpkfejtt .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -335,7 +335,7 @@ html {
   border-bottom-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_grand_summary_row {
+#xhgpkfejtt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -345,7 +345,7 @@ html {
   padding-right: 5px;
 }
 
-#tpayijavqf .gt_first_grand_summary_row {
+#xhgpkfejtt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -355,11 +355,11 @@ html {
   border-top-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_striped {
+#xhgpkfejtt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tpayijavqf .gt_table_body {
+#xhgpkfejtt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -368,7 +368,7 @@ html {
   border-bottom-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_footnotes {
+#xhgpkfejtt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -382,7 +382,7 @@ html {
   border-right-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_footnote {
+#xhgpkfejtt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-left: 4px;
@@ -391,7 +391,7 @@ html {
   padding-right: 5px;
 }
 
-#tpayijavqf .gt_sourcenotes {
+#xhgpkfejtt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -405,7 +405,7 @@ html {
   border-right-color: #D3D3D3;
 }
 
-#tpayijavqf .gt_sourcenote {
+#xhgpkfejtt .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -413,36 +413,36 @@ html {
   padding-right: 5px;
 }
 
-#tpayijavqf .gt_left {
+#xhgpkfejtt .gt_left {
   text-align: left;
 }
 
-#tpayijavqf .gt_center {
+#xhgpkfejtt .gt_center {
   text-align: center;
 }
 
-#tpayijavqf .gt_right {
+#xhgpkfejtt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tpayijavqf .gt_font_normal {
+#xhgpkfejtt .gt_font_normal {
   font-weight: normal;
 }
 
-#tpayijavqf .gt_font_bold {
+#xhgpkfejtt .gt_font_bold {
   font-weight: bold;
 }
 
-#tpayijavqf .gt_font_italic {
+#xhgpkfejtt .gt_font_italic {
   font-style: italic;
 }
 
-#tpayijavqf .gt_super {
+#xhgpkfejtt .gt_super {
   font-size: 65%;
 }
 
-#tpayijavqf .gt_two_val_uncert {
+#xhgpkfejtt .gt_two_val_uncert {
   display: inline-block;
   line-height: 1em;
   text-align: right;
@@ -451,31 +451,31 @@ html {
   margin-left: 0.1em;
 }
 
-#tpayijavqf .gt_footnote_marks {
+#xhgpkfejtt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 75%;
   vertical-align: 0.4em;
 }
 
-#tpayijavqf .gt_asterisk {
+#xhgpkfejtt .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#tpayijavqf .gt_slash_mark {
+#xhgpkfejtt .gt_slash_mark {
   font-size: 0.7em;
   line-height: 0.7em;
   vertical-align: 0.15em;
 }
 
-#tpayijavqf .gt_fraction_numerator {
+#xhgpkfejtt .gt_fraction_numerator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: 0.45em;
 }
 
-#tpayijavqf .gt_fraction_denominator {
+#xhgpkfejtt .gt_fraction_denominator {
   font-size: 0.6em;
   line-height: 0.6em;
   vertical-align: -0.05em;
@@ -635,7 +635,7 @@ less unbalanced factor variables.
 ### Distributions
 
 Let’s look at the distributions of our numeric variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->  
 Our outcome variable, selling price, follows a very right skewed
 distribution. There are numerous very large outliers compared to the
 median and the interquartile range.
@@ -650,7 +650,7 @@ median and the interquartile range.
         demonstrate the merits of BLR, we will keep the entire dataset
         for this analysis.
 
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->  
 
 -   The year variable is left skewed, with a median year of 2014. Most
     cars in our dataset are newer models, roughly after 2010. Very few
@@ -661,7 +661,7 @@ median and the interquartile range.
         driven. One observation has only 1 kilometer driven.
 
 Let’s look at the balances of our factor variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->  
 
 -   Fuel type is balanced almost perfectly between diesel and petrol.
 -   Previous owners is unbalanced, most cars are from first owners, and
@@ -674,7 +674,7 @@ Let’s look at the balances of our factor variables.
 
 Let’s check the correlations between our variables, starting with the
 numeric variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->  
 
 -   There is a moderate, positive correlation of 0.4 between year and
     selling price. The coefficient is highly statistically significant.
@@ -705,7 +705,7 @@ numeric variables.
   
 Let’s check the degrees of association between our factor variables,
 with tile plots and chi-square tests.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -717,7 +717,7 @@ We see that dealers are a bit more likely to sell diesel cars, while
 individuals are a bit more likely to sell petrol cars. The association
 is weak but statistically significant.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -729,7 +729,7 @@ Automatic cars are a bit more likely to be diesel, and manual cars are a
 bit more likely to be petrol. Again, a weak but statistically
 significant association.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -740,7 +740,7 @@ significant association.
 There is no significant association between fuel type and number of
 owners.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -752,7 +752,7 @@ Individual sellers are much more likely to sell manual cars compared to
 dealers. This is a strong, highly statistically significant
 association.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -765,7 +765,7 @@ cars, and 1/33th of third owner cars. There is a very strong and highly
 statistically significant association between these variables. Dealers
 strongly prefer selling first owner cars.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -778,10 +778,10 @@ cars. There is a moderate, statistically significant association between
 these variables.  
   
 
-Finally, let’s look at the correlations between numeric and factor
+Finally, let’s look at the relationships between numeric and factor
 variables, using boxplots of numeric variables grouped by factor
 variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-18-2.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-2.png)<!-- -->  
 
 -   We see that diesel cars tend to be priced higher than petrol cars.
 -   Cars sold by dealers tend to be priced a bit higher than cars sold
@@ -793,7 +793,7 @@ variables.
     second and third owner cars.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->  
 
 -   Overall, diesel cars tend to be a bit newer than petrol cars, though
     there are numerous older diesels as well.
@@ -804,7 +804,7 @@ variables.
 -   Generally, the more previous owners a car has, the older it is.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-2.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-21-2.png)<!-- -->  
 
 -   Diesel cars tend to have higher kilometers driven compared to
     petrols. This is expected as diesel engines are known to be more
@@ -839,8 +839,8 @@ Let’s use scatterplots to better visualize the relationship between the
 two numeric predictors, year and km_driven, and the selling prices.
 Let’s also group the observations by the factor variables for more
 possible insights.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->  
 
 -   Selling price tends to increase with year, in a non-linear,
     exponential-like fashion.
@@ -965,7 +965,7 @@ confidence intervals:
 Another way to visualize the individual effect of each variable on
 price, while holding the effects of other variables constant, is with
 added variable plots:  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
 
 -   Year has the biggest effect on price: A positive, approximately
     linear increase. The log transformation of selling price apparently
@@ -990,7 +990,7 @@ added variable plots:
 
 Let’s plot the diagnostic graphs for lm1, and see if our model fits the
 assumptions for an OLS linear regression.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
 
     ##                  GVIF Df GVIF^(1/(2*Df))
     ## year         1.286950  1        1.134438
@@ -1017,7 +1017,7 @@ assumptions for an OLS linear regression.
 Another way to visually assess the model’s fit is to plot the fitted
 values against the real observed values. Let’s do this, while reversing
 the log transformations on the model’s predictions.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->  
 While the fitted vs. observed values are reasonably close to following a
 straight line, quite a few observations, especially higher priced cars
 above 2.5m, are vastly underpredicted. We expected this from our
@@ -1117,15 +1117,15 @@ effect on price.
   
 Let’s plot the posterior probability distributions of the model
 coefficients.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-36-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-37-1.png)<!-- -->  
   
 If we want to compare the effect and uncertainty of each coefficient, we
 can plot their distributions together, though it will be hard to see the
 distribution for each individual coefficient this way.  
 
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-38-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->  
 In this plot, coefficients that are farther away from 1 have a bigger
 unit effect on the price, coefficients greater than 1 have a positive
 effect, and coefficients smaller than 1 have a negative effect.
@@ -1156,7 +1156,7 @@ The BLR model also gives us a posterior probability distribution for the
 predicted values of the outcome variable. We can plot this against the
 distribution of the original selling price in our dataset, to check if
 the predictions fit well with the original data.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-40-1.png)<!-- -->  
 Overall, the posterior probability distributions are reasonably close to
 the distribution of the original outcome variable, though there are
 considerable deviations in certain ranges. We can see from these plots
@@ -1169,7 +1169,7 @@ We can plot the average selling prices predicted by blr1, against the
 actual values of selling price, just like we did with lm1. This will
 yield very similar results, as the average estimates of blr1 are very
 close to the estimates of lm1.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-40-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->  
 We can see that the average fitted values of blr1 are practically the
 same with the fitted values of lm1. They overlap almost perfectly in the
 plot, though blr1’s predictions are slightly higher.
@@ -1193,7 +1193,7 @@ along with the point prediction of lm1, and the original price of the
 car.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-44-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-45-1.png)<!-- -->  
 lm1’s point prediction for this observation is 390k, underestimating the
 real price of 500k. However, blr1’s posterior prediction tells us more
 about the degree of uncertainty in the predictions of price:
