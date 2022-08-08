@@ -67,7 +67,7 @@ df_org$owner <- factor(df_org$owner, levels=c("Test Drive Car", "First Owner", "
                                               "Third Owner", "Fourth & Above Owner"))
 ```
 \
-```{r, include=FALSE}
+```{r, include=FALSE, results="hide"}
 tb1 <- gt(data=df_org[1:5,], rownames_to_stub = TRUE) %>% 
   tab_header(title="Used cars dataset") %>% 
   opt_table_font(font=list(google_font("Calibri"), default_fonts())) %>% 
