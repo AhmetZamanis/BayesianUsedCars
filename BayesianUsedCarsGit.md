@@ -68,490 +68,76 @@ summary statistics.
 
   
 
-<div id="tpayijavqf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>@import url("https://fonts.googleapis.com/css2?family=Calibri:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
-html {
-  font-family: Calibri, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
-}
-
-#tpayijavqf .gt_table {
-  display: table;
-  border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
-  color: #333333;
-  font-size: 16px;
-  font-weight: normal;
-  font-style: normal;
-  background-color: #FFFFFF;
-  width: auto;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #A8A8A8;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #A8A8A8;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_heading {
-  background-color: #FFFFFF;
-  text-align: center;
-  border-bottom-color: #FFFFFF;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_title {
-  color: #333333;
-  font-size: 125%;
-  font-weight: initial;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-color: #FFFFFF;
-  border-bottom-width: 0;
-}
-
-#tpayijavqf .gt_subtitle {
-  color: #333333;
-  font-size: 85%;
-  font-weight: initial;
-  padding-top: 0;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-color: #FFFFFF;
-  border-top-width: 0;
-}
-
-#tpayijavqf .gt_bottom_border {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_col_headings {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_col_heading {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 6px;
-  padding-left: 5px;
-  padding-right: 5px;
-  overflow-x: hidden;
-}
-
-#tpayijavqf .gt_column_spanner_outer {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: normal;
-  text-transform: inherit;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 4px;
-  padding-right: 4px;
-}
-
-#tpayijavqf .gt_column_spanner_outer:first-child {
-  padding-left: 0;
-}
-
-#tpayijavqf .gt_column_spanner_outer:last-child {
-  padding-right: 0;
-}
-
-#tpayijavqf .gt_column_spanner {
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: bottom;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  overflow-x: hidden;
-  display: inline-block;
-  width: 100%;
-}
-
-#tpayijavqf .gt_group_heading {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#tpayijavqf .gt_empty_group_heading {
-  padding: 0.5px;
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  vertical-align: middle;
-}
-
-#tpayijavqf .gt_from_md > :first-child {
-  margin-top: 0;
-}
-
-#tpayijavqf .gt_from_md > :last-child {
-  margin-bottom: 0;
-}
-
-#tpayijavqf .gt_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  margin: 10px;
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-top-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 1px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 1px;
-  border-right-color: #D3D3D3;
-  vertical-align: middle;
-  overflow-x: hidden;
-}
-
-#tpayijavqf .gt_stub {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#tpayijavqf .gt_stub_row_group {
-  color: #333333;
-  background-color: #FFFFFF;
-  font-size: 100%;
-  font-weight: initial;
-  text-transform: inherit;
-  border-right-style: solid;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-  padding-left: 5px;
-  padding-right: 5px;
-  vertical-align: top;
-}
-
-#tpayijavqf .gt_row_group_first td {
-  border-top-width: 2px;
-}
-
-#tpayijavqf .gt_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#tpayijavqf .gt_first_summary_row {
-  border-top-style: solid;
-  border-top-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_first_summary_row.thick {
-  border-top-width: 2px;
-}
-
-#tpayijavqf .gt_last_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_grand_summary_row {
-  color: #333333;
-  background-color: #FFFFFF;
-  text-transform: inherit;
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#tpayijavqf .gt_first_grand_summary_row {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  padding-left: 5px;
-  padding-right: 5px;
-  border-top-style: double;
-  border-top-width: 6px;
-  border-top-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_striped {
-  background-color: rgba(128, 128, 128, 0.05);
-}
-
-#tpayijavqf .gt_table_body {
-  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: #D3D3D3;
-  border-bottom-style: solid;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_footnotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_footnote {
-  margin: 0px;
-  font-size: 90%;
-  padding-left: 4px;
-  padding-right: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#tpayijavqf .gt_sourcenotes {
-  color: #333333;
-  background-color: #FFFFFF;
-  border-bottom-style: none;
-  border-bottom-width: 2px;
-  border-bottom-color: #D3D3D3;
-  border-left-style: none;
-  border-left-width: 2px;
-  border-left-color: #D3D3D3;
-  border-right-style: none;
-  border-right-width: 2px;
-  border-right-color: #D3D3D3;
-}
-
-#tpayijavqf .gt_sourcenote {
-  font-size: 90%;
-  padding-top: 4px;
-  padding-bottom: 4px;
-  padding-left: 5px;
-  padding-right: 5px;
-}
-
-#tpayijavqf .gt_left {
-  text-align: left;
-}
-
-#tpayijavqf .gt_center {
-  text-align: center;
-}
-
-#tpayijavqf .gt_right {
-  text-align: right;
-  font-variant-numeric: tabular-nums;
-}
-
-#tpayijavqf .gt_font_normal {
-  font-weight: normal;
-}
-
-#tpayijavqf .gt_font_bold {
-  font-weight: bold;
-}
-
-#tpayijavqf .gt_font_italic {
-  font-style: italic;
-}
-
-#tpayijavqf .gt_super {
-  font-size: 65%;
-}
-
-#tpayijavqf .gt_two_val_uncert {
-  display: inline-block;
-  line-height: 1em;
-  text-align: right;
-  font-size: 60%;
-  vertical-align: -0.25em;
-  margin-left: 0.1em;
-}
-
-#tpayijavqf .gt_footnote_marks {
-  font-style: italic;
-  font-weight: normal;
-  font-size: 75%;
-  vertical-align: 0.4em;
-}
-
-#tpayijavqf .gt_asterisk {
-  font-size: 100%;
-  vertical-align: 0;
-}
-
-#tpayijavqf .gt_slash_mark {
-  font-size: 0.7em;
-  line-height: 0.7em;
-  vertical-align: 0.15em;
-}
-
-#tpayijavqf .gt_fraction_numerator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: 0.45em;
-}
-
-#tpayijavqf .gt_fraction_denominator {
-  font-size: 0.6em;
-  line-height: 0.6em;
-  vertical-align: -0.05em;
-}
-</style>
-<table class="gt_table">
-  <thead class="gt_header">
+<table style="font-family: Calibri, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif; display: table; border-collapse: collapse; margin-left: auto; margin-right: auto; color: #333333; font-size: 16px; font-weight: normal; font-style: normal; background-color: #FFFFFF; width: auto; border-top-style: solid; border-top-width: 2px; border-top-color: #A8A8A8; border-right-style: none; border-right-width: 2px; border-right-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #A8A8A8; border-left-style: none; border-left-width: 2px; border-left-color: #D3D3D3;">
+  <thead style="">
     <tr>
-      <th colspan="9" class="gt_heading gt_title gt_font_normal gt_bottom_border" style>Used cars dataset</th>
+      <th colspan="9" style="background-color: #FFFFFF; text-align: center; border-bottom-color: #FFFFFF; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; color: #333333; font-size: 125%; font-weight: initial; padding-top: 4px; padding-bottom: 4px; padding-left: 5px; padding-right: 5px; border-bottom-width: 0; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; font-weight: normal;" style>Used cars dataset</th>
     </tr>
     
   </thead>
-  <thead class="gt_col_headings">
+  <thead style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3;">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"></th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">name</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">year</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">selling_price</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">km_driven</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">fuel</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">seller_type</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">transmission</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1" style="border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">owner</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left;" rowspan="1" colspan="1"></th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: left; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">name</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">year</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">selling_price</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">km_driven</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">fuel</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">seller_type</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">transmission</th>
+      <th style="color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: normal; text-transform: inherit; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: bottom; padding-top: 5px; padding-bottom: 6px; padding-left: 5px; padding-right: 5px; overflow-x: hidden; text-align: center; border-bottom-width: 3px; border-bottom-style: solid; border-bottom-color: #000000; font-weight: bold;">owner</th>
     </tr>
   </thead>
-  <tbody class="gt_table_body">
-    <tr><td class="gt_row gt_right gt_stub">1</td>
-<td class="gt_row gt_left">Maruti 800 AC</td>
-<td class="gt_row gt_right">2007</td>
-<td class="gt_row gt_right">60000</td>
-<td class="gt_row gt_right">70000</td>
-<td class="gt_row gt_center">Petrol</td>
-<td class="gt_row gt_center">Individual</td>
-<td class="gt_row gt_center">Manual</td>
-<td class="gt_row gt_center">First Owner</td></tr>
-    <tr><td class="gt_row gt_right gt_stub">2</td>
-<td class="gt_row gt_left">Maruti Wagon R LXI Minor</td>
-<td class="gt_row gt_right">2007</td>
-<td class="gt_row gt_right">135000</td>
-<td class="gt_row gt_right">50000</td>
-<td class="gt_row gt_center">Petrol</td>
-<td class="gt_row gt_center">Individual</td>
-<td class="gt_row gt_center">Manual</td>
-<td class="gt_row gt_center">First Owner</td></tr>
-    <tr><td class="gt_row gt_right gt_stub">3</td>
-<td class="gt_row gt_left">Hyundai Verna 1.6 SX</td>
-<td class="gt_row gt_right">2012</td>
-<td class="gt_row gt_right">600000</td>
-<td class="gt_row gt_right">100000</td>
-<td class="gt_row gt_center">Diesel</td>
-<td class="gt_row gt_center">Individual</td>
-<td class="gt_row gt_center">Manual</td>
-<td class="gt_row gt_center">First Owner</td></tr>
-    <tr><td class="gt_row gt_right gt_stub">4</td>
-<td class="gt_row gt_left">Datsun RediGO T Option</td>
-<td class="gt_row gt_right">2017</td>
-<td class="gt_row gt_right">250000</td>
-<td class="gt_row gt_right">46000</td>
-<td class="gt_row gt_center">Petrol</td>
-<td class="gt_row gt_center">Individual</td>
-<td class="gt_row gt_center">Manual</td>
-<td class="gt_row gt_center">First Owner</td></tr>
-    <tr><td class="gt_row gt_right gt_stub">5</td>
-<td class="gt_row gt_left">Honda Amaze VX i-DTEC</td>
-<td class="gt_row gt_right">2014</td>
-<td class="gt_row gt_right">450000</td>
-<td class="gt_row gt_right">141000</td>
-<td class="gt_row gt_center">Diesel</td>
-<td class="gt_row gt_center">Individual</td>
-<td class="gt_row gt_center">Manual</td>
-<td class="gt_row gt_center">Second Owner</td></tr>
+  <tbody style="border-top-style: solid; border-top-width: 2px; border-top-color: #D3D3D3; border-bottom-style: solid; border-bottom-width: 2px; border-bottom-color: #D3D3D3;">
+    <tr><td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: initial; text-transform: inherit; border-right-style: solid; border-right-width: 2px; text-align: right; font-variant-numeric: tabular-nums;">1</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Maruti 800 AC</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">2007</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">60000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">70000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Petrol</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Individual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Manual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">First Owner</td></tr>
+    <tr><td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: initial; text-transform: inherit; border-right-style: solid; border-right-width: 2px; text-align: right; font-variant-numeric: tabular-nums;">2</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Maruti Wagon R LXI Minor</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">2007</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">135000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">50000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Petrol</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Individual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Manual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">First Owner</td></tr>
+    <tr><td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: initial; text-transform: inherit; border-right-style: solid; border-right-width: 2px; text-align: right; font-variant-numeric: tabular-nums;">3</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Hyundai Verna 1.6 SX</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">2012</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">600000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">100000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Diesel</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Individual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Manual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">First Owner</td></tr>
+    <tr><td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: initial; text-transform: inherit; border-right-style: solid; border-right-width: 2px; text-align: right; font-variant-numeric: tabular-nums;">4</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Datsun RediGO T Option</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">2017</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">250000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">46000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Petrol</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Individual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Manual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">First Owner</td></tr>
+    <tr><td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; color: #333333; background-color: #FFFFFF; font-size: 100%; font-weight: initial; text-transform: inherit; border-right-style: solid; border-right-width: 2px; text-align: right; font-variant-numeric: tabular-nums;">5</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: left;">Honda Amaze VX i-DTEC</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">2014</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">450000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: right; font-variant-numeric: tabular-nums;">141000</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Diesel</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Individual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Manual</td>
+<td style="padding-top: 8px; padding-bottom: 8px; padding-left: 5px; padding-right: 5px; margin: 10px; border-top-style: solid; border-top-width: 1px; border-top-color: #D3D3D3; border-left-style: none; border-left-width: 1px; border-left-color: #D3D3D3; border-right-style: none; border-right-width: 1px; border-right-color: #D3D3D3; vertical-align: middle; overflow-x: hidden; text-align: center;">Second Owner</td></tr>
   </tbody>
   
   
 </table>
-</div>
 
   
 
@@ -635,7 +221,7 @@ less unbalanced factor variables.
 ### Distributions
 
 Let’s look at the distributions of our numeric variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-6-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->  
 Our outcome variable, selling price, follows a very right skewed
 distribution. There are numerous very large outliers compared to the
 median and the interquartile range.
@@ -650,7 +236,7 @@ median and the interquartile range.
         demonstrate the merits of BLR, we will keep the entire dataset
         for this analysis.
 
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->  
 
 -   The year variable is left skewed, with a median year of 2014. Most
     cars in our dataset are newer models, roughly after 2010. Very few
@@ -661,7 +247,7 @@ median and the interquartile range.
         driven. One observation has only 1 kilometer driven.
 
 Let’s look at the balances of our factor variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-9-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->  
 
 -   Fuel type is balanced almost perfectly between diesel and petrol.
 -   Previous owners is unbalanced, most cars are from first owners, and
@@ -674,7 +260,7 @@ Let’s look at the balances of our factor variables.
 
 Let’s check the correlations between our variables, starting with the
 numeric variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-10-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->  
 
 -   There is a moderate, positive correlation of 0.4 between year and
     selling price. The coefficient is highly statistically significant.
@@ -705,7 +291,7 @@ numeric variables.
   
 Let’s check the degrees of association between our factor variables,
 with tile plots and chi-square tests.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -717,7 +303,7 @@ We see that dealers are a bit more likely to sell diesel cars, while
 individuals are a bit more likely to sell petrol cars. The association
 is weak but statistically significant.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-12-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -729,7 +315,7 @@ Automatic cars are a bit more likely to be diesel, and manual cars are a
 bit more likely to be petrol. Again, a weak but statistically
 significant association.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-13-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -740,7 +326,7 @@ significant association.
 There is no significant association between fuel type and number of
 owners.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-14-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test with Yates' continuity correction
@@ -752,7 +338,7 @@ Individual sellers are much more likely to sell manual cars compared to
 dealers. This is a strong, highly statistically significant
 association.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-15-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -765,7 +351,7 @@ cars, and 1/33th of third owner cars. There is a very strong and highly
 statistically significant association between these variables. Dealers
 strongly prefer selling first owner cars.  
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-16-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-17-1.png)<!-- -->
 
     ## 
     ##  Pearson's Chi-squared test
@@ -778,10 +364,10 @@ cars. There is a moderate, statistically significant association between
 these variables.  
   
 
-Finally, let’s look at the correlations between numeric and factor
+Finally, let’s look at the relationships between numeric and factor
 variables, using boxplots of numeric variables grouped by factor
 variables.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-18-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-18-2.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-2.png)<!-- -->  
 
 -   We see that diesel cars tend to be priced higher than petrol cars.
 -   Cars sold by dealers tend to be priced a bit higher than cars sold
@@ -793,7 +379,7 @@ variables.
     second and third owner cars.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-19-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->  
 
 -   Overall, diesel cars tend to be a bit newer than petrol cars, though
     there are numerous older diesels as well.
@@ -804,7 +390,7 @@ variables.
 -   Generally, the more previous owners a car has, the older it is.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-20-2.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-21-1.png)<!-- -->![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-21-2.png)<!-- -->  
 
 -   Diesel cars tend to have higher kilometers driven compared to
     petrols. This is expected as diesel engines are known to be more
@@ -839,8 +425,8 @@ Let’s use scatterplots to better visualize the relationship between the
 two numeric predictors, year and km_driven, and the selling prices.
 Let’s also group the observations by the factor variables for more
 possible insights.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-22-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-24-1.png)<!-- -->  
 
 -   Selling price tends to increase with year, in a non-linear,
     exponential-like fashion.
@@ -965,7 +551,7 @@ confidence intervals:
 Another way to visualize the individual effect of each variable on
 price, while holding the effects of other variables constant, is with
 added variable plots:  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-27-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
 
 -   Year has the biggest effect on price: A positive, approximately
     linear increase. The log transformation of selling price apparently
@@ -990,7 +576,7 @@ added variable plots:
 
 Let’s plot the diagnostic graphs for lm1, and see if our model fits the
 assumptions for an OLS linear regression.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-28-1.png)<!-- -->
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->
 
     ##                  GVIF Df GVIF^(1/(2*Df))
     ## year         1.286950  1        1.134438
@@ -1017,7 +603,7 @@ assumptions for an OLS linear regression.
 Another way to visually assess the model’s fit is to plot the fitted
 values against the real observed values. Let’s do this, while reversing
 the log transformations on the model’s predictions.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-29-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-30-1.png)<!-- -->  
 While the fitted vs. observed values are reasonably close to following a
 straight line, quite a few observations, especially higher priced cars
 above 2.5m, are vastly underpredicted. We expected this from our
@@ -1117,15 +703,15 @@ effect on price.
   
 Let’s plot the posterior probability distributions of the model
 coefficients.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-34-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-35-1.png)<!-- -->  
 ![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-36-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-37-1.png)<!-- -->  
   
 If we want to compare the effect and uncertainty of each coefficient, we
 can plot their distributions together, though it will be hard to see the
 distribution for each individual coefficient this way.  
 
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-38-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->  
 In this plot, coefficients that are farther away from 1 have a bigger
 unit effect on the price, coefficients greater than 1 have a positive
 effect, and coefficients smaller than 1 have a negative effect.
@@ -1156,7 +742,7 @@ The BLR model also gives us a posterior probability distribution for the
 predicted values of the outcome variable. We can plot this against the
 distribution of the original selling price in our dataset, to check if
 the predictions fit well with the original data.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-39-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-40-1.png)<!-- -->  
 Overall, the posterior probability distributions are reasonably close to
 the distribution of the original outcome variable, though there are
 considerable deviations in certain ranges. We can see from these plots
@@ -1169,7 +755,7 @@ We can plot the average selling prices predicted by blr1, against the
 actual values of selling price, just like we did with lm1. This will
 yield very similar results, as the average estimates of blr1 are very
 close to the estimates of lm1.  
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-40-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-41-1.png)<!-- -->  
 We can see that the average fitted values of blr1 are practically the
 same with the fitted values of lm1. They overlap almost perfectly in the
 plot, though blr1’s predictions are slightly higher.
@@ -1193,7 +779,7 @@ along with the point prediction of lm1, and the original price of the
 car.
 
   
-![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-44-1.png)<!-- -->  
+![](BayesianUsedCarsGit_files/figure-gfm/unnamed-chunk-45-1.png)<!-- -->  
 lm1’s point prediction for this observation is 390k, underestimating the
 real price of 500k. However, blr1’s posterior prediction tells us more
 about the degree of uncertainty in the predictions of price:
