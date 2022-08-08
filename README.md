@@ -1,4 +1,4 @@
-# BayesianUsedCars
+# Bayesian Linear Regression - Used car prices analysis
 Predicting used car prices using Bayesian Linear Regression, visualizing results and comparing with OLS regression.
 
 [Report](https://github.com/AhmetZamanis/BayesianUsedCars/blob/main/BayesianUsedCarsGit.md) of the full analysis
